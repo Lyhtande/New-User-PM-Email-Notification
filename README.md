@@ -2,7 +2,7 @@
 
 [![Latest Stable Version](https://img.shields.io/github/tag/Lyhtande/New-User-PM-Email-Notification.svg?style=flat-square&label=stable)](https://github.com/Lyhtande/New-User-PM-Email-Notification/releases)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Lyhtande/New-User-PM-Email-Notification?style=flat-square)
-[![License](https://img.shields.io/github/license/Lyhtande/New-User-PM-Email-Notification.svg?style=flat-square)](https://raw.githubusercontent.com/Lyhtande/New-User-PM-Email-Notification/master/license.txt)
+[![License](https://img.shields.io/github/license/Lyhtande/New-User-PM-Email-Notification.svg?style=flat-square)](https://raw.githubusercontent.com/Lyhtande/New-User-PM-Email-Notification/master/LICENSE)
 
 ## Installation
 
