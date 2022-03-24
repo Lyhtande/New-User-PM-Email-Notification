@@ -1,0 +1,2 @@
+parameters:
+    neverlands.pmnotification.tables.pmnotification_table: '%core.table_prefix%neverlands_pmnotification_table'

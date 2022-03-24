@@ -1,0 +1,16 @@
+imports:
+    - { resource: parameters.yml }
+
+services:
+    neverlands.pmnotification.service:
+        class: neverlands\pmnotification\service
+        arguments:
+            - '@user'
+            - '%neverlands.pmnotification.tables.pmnotification_table%'
+
+    neverlands.pmnotification.listener:
+        class: neverlands\pmnotification\event\main_listener
+        arguments:
+            - '@dbal.conn'
+        tags:
+            - { name: event.listener }
