@@ -24,4 +24,10 @@
             "phpbb/phpbb": ">=3.2.0,<4.0.0@dev"
         }
     }
+        "version-check": {
+            "host": "https://www,circula-orionis.net",
+            "directory": "/marion/files",
+            "filename": "seo-metadata.json",
+            "ssl": true
+        }
 }
