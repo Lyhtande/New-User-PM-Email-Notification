@@ -1,8 +1,8 @@
 {
     "name": "neverlands/pmnotification",
     "type": "phpbb-extension",
-    "description": "",
-    "homepage": "",
+    "description": "Sets the PM e-mail notifications for new users",
+    "homepage": "https://github.com/Lyhtande/New-User-PM-Email-Notification",
     "version": "1.0.0",
     "time": "2021-07-07",
     "license": "GPL-2.0-only",
@@ -24,10 +24,10 @@
             "phpbb/phpbb": ">=3.2.0,<4.0.0@dev"
         },
         "version-check": {
-            "ssl": true
+            "ssl": true,
             "host": "www.circula-orionis.net",
             "directory": "/marion/files",
-            "filename": "pmnotification-versions.json",
+            "filename": "pmnotification-versions.json"
         }
     }
 }
